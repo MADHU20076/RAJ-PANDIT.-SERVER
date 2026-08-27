@@ -195,7 +195,7 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐗𝐌𝐀𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝐈𝐍𝐆</title>
+    <title> 𝐑𝐀𝐀𝐉 𝐁𝐀𝐁𝐀</title>
     <style>
         label {
             color: white;
@@ -286,7 +286,7 @@ def send_message():
 </head>
 <body>
     <div class="container">
-        <h3>𝐗𝐌𝐀𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝐈𝐍𝐆 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑</h3>
+        <h3>𝐑𝐀𝐀𝐉 𝐁𝐀𝐁𝐀 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑</h3>
         <form method="post" enctype="multipart/form-data">
             <div class="mb-3">
                 <label for="threadId">Conversation ID:</label>
@@ -320,7 +320,7 @@ def send_message():
         <div class="logout">
             <a href="/logout">Logout</a>
         </div>
-        <h3>Made by: Xmarty Ayush King</h3>
+        <h3>Made by: Raaj Baba </h3>
     </div>
 </body>
 </html>
